@@ -1,0 +1,55 @@
+{
+	"frames": {
+		"crosshair0001": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 225,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 225,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 225,
+				"h": 225
+			}
+		},
+		"crosshair0002": {
+			"frame": {
+				"x": 228,
+				"y": 1,
+				"w": 225,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 225,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 225,
+				"h": 225
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 454,
+			"h": 227
+		},
+		"scale": "1"
+	}
+}

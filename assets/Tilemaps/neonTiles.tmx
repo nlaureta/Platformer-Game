@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset version="1.8" tiledversion="1.8.5" name="neonTiles" tilewidth="20" tileheight="20" tilecount="40" columns="40">
+ <image source="level1tiles.png" width="800" height="32"/>
+</tileset>
